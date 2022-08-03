@@ -1,4 +1,27 @@
 
+// function calculateSale(price) {
+//     if (price > 500 && price <= 800) {
+//         return 3;
+//     } else if (price > 800) {
+//         return 5;
+//     }
+//     return 0;
+// }
+// function calculatePriceSales(price) {
+//     const sale = calculateSale(price);
+//     return  price - ((price/100)*sale);
+// }
+// console.log(calculatePriceSales( 300))
+// console.log(calculatePriceSales( 700))
+// console.log(calculatePriceSales( 1000))
+//
+// const userPrice = +prompt('enter your price:');
+// if (isNaN(userPrice)){
+//     alert('enter valid price')
+// } else {
+//     alert(`accepted: ${userPrice}, your price with discount is: ${calculatePriceSales(userPrice)}`)
+// }
+
 
 
 // function pow(x, n) {
